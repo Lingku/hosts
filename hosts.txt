@@ -5009,20 +5009,20 @@ fe80::1%lo0    localhost
 203.208.48.154    maps.gstatic.cn
 
 # g-Fix-usr-con
-173.194.201.123    clients1.googleusercontent.com
-173.194.201.123    clients2.googleusercontent.com
-173.194.201.123    clients3.googleusercontent.com
-173.194.201.123    clients4.googleusercontent.com
-173.194.201.123    clients5.googleusercontent.com
-173.194.201.123    clients6.googleusercontent.com
-173.194.201.123    clients7.googleusercontent.com
-173.194.201.123    lh0.googleusercontent.com
-173.194.201.123    lh1.googleusercontent.com
-173.194.201.123    lh2.googleusercontent.com
-173.194.201.123    lh3.googleusercontent.com
-173.194.201.123    lh4.googleusercontent.com
-173.194.201.123    lh5.googleusercontent.com
-173.194.201.123    lh6.googleusercontent.com
+173.194.201.132    clients1.googleusercontent.com
+173.194.201.132    clients2.googleusercontent.com
+173.194.201.132    clients3.googleusercontent.com
+173.194.201.132    clients4.googleusercontent.com
+173.194.201.132    clients5.googleusercontent.com
+173.194.201.132    clients6.googleusercontent.com
+173.194.201.132    clients7.googleusercontent.com
+173.194.201.132    lh0.googleusercontent.com
+173.194.201.132    lh1.googleusercontent.com
+173.194.201.132    lh2.googleusercontent.com
+173.194.201.132    lh3.googleusercontent.com
+173.194.201.132    lh4.googleusercontent.com
+173.194.201.132    lh5.googleusercontent.com
+173.194.201.132    lh6.googleusercontent.com
 
 # g-Fix-pht-api-st
 173.194.200.136    fonts.gstatic.com
